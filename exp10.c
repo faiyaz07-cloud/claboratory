@@ -76,5 +76,8 @@ printf("%d\t%s\t%c\n", s[i].rollno, s[i].name, s[i].attendance);
 
 }
 
-} printf("\nTotal Present = %d", present); printf("\nTotal Absent = %d", absent); printf("\n\nAttendance saved successfully."); return 0;
+} printf("\nTotal Present = %d", present); printf("\nTotal Absent = %d", absent); printf("\n\nAttendance saved successfully."); 
+
+return 0;
+
 }
